@@ -6,13 +6,13 @@ Just like [modal_progress_hud](https://pub.dev/packages/modal_progress_hud) this
 
 ## How it works 
 
-![Image1]()
+![Image1](https://github.com/joeyyy688/blurry_modal_progress_hud/blob/master/blurry_modal_progress_hud_image1.gif)
 
 
-![Image2]()
+![Image2](https://github.com/joeyyy688/blurry_modal_progress_hud/blob/master/blurry_modal_progress_hud_image2.gif)
 
 
-*See [example]() for details*
+*See [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/exmaple) for details*
 
 
 ## Installation
@@ -86,7 +86,7 @@ Most of the parameters can be customized via the constructor
 
 ## Example
 
-*See the [example]() for a complete sample app using the blurry_modal_progress_hud.*
+*See the [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/exmaple) for a complete sample app using the blurry_modal_progress_hud*
 
 ### Contact
 Reach me on Twitter <a href="https://twitter.com/edinjoey" target="_blank">@edinjoey</a>
