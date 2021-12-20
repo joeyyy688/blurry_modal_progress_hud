@@ -1,6 +1,6 @@
 name: blurry_modal_progress_hud
 description: Just like modal_progress_hud this is a simple widget wrapper to enable modal progress hud (a modal progress indicator, hud = heads up display)
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/joeyyy688/blurry_modal_progress_hud
 
 environment:
