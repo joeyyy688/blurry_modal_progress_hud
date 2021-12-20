@@ -1,3 +1,6 @@
+## [1.0.3]
+* Small fixes
+
 ## [1.0.2]
 * Refactored codes
 * Corrected omissions
