@@ -1,3 +1,10 @@
+## [1.0.3]
+* Small fixes
+
+## [1.0.2]
+* Refactored codes
+* Corrected omissions
+
 ## [1.0.1]
 * Updated pubspec.yaml
 * Updated pubspec.lock

@@ -1,10 +1,32 @@
-import 'package:blurry_modal_progress_hud/blurry_modal_progress_hud.dart';
+import '../screens/homePage.dart';
 import 'package:flutter/material.dart';
+import 'package:blurry_modal_progress_hud/blurry_modal_progress_hud.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import '../colors/colors.dart';
 import '../mediaQuery/sizeHelpers.dart';
 import '../widgets/customTextField.dart';
 import '../widgets/labelText.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      initialRoute: LandingPage.routeName,
+      routes: {
+        HomePage.routeName: (context) => HomePage(),
+        LandingPage.routeName: (context) => LandingPage()
+      },
+    );
+  }
+}
 
 class LandingPage extends StatefulWidget {
   static const routeName = '/landingPage';
