@@ -1,6 +1,5 @@
 import 'package:blurry_modal_progress_hud_example/mediaQuery/sizeHelpers.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 class CustomTextField extends StatelessWidget {
   final TextEditingController controller;
