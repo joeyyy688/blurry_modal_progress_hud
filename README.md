@@ -89,4 +89,4 @@ Most of the parameters can be customized via the constructor
 *See the [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/exmaple) for a complete sample app using the blurry_modal_progress_hud*
 
 ### Contact
-Contact me via email <a href="mailto:edinjoey@gmail.com" target="_blank">@edinjoey</a>
+Contact me via email <a href="mailto:edinjoey@gmail.com" target="_blank">edinjoey@gmail.com</a>
