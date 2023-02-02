@@ -21,7 +21,7 @@ Add the blurry_modal_progress_hud package to your `pubspec.yml` file.
 
 ```yml
 dependencies:
-  blurry_modal_progress_hud: ^1.0.3
+  blurry_modal_progress_hud: ^1.1.0
 ```
 
 Import the package into your dart file

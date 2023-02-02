@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
         title: Text('HomePage'),
       ),
       body: Center(
-        child: Text("This is the test home page..."),
+        child: Text('This is the test home page...'),
       ),
     );
   }

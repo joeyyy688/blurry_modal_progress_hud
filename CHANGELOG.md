@@ -1,3 +1,10 @@
+## [1.1.0]
+* Updated some dependencies to support Dart 3
+* Updated flutter version
+* Added linting support
+* Fixed some linting warnings
+* Edited REAME.md
+
 ## [1.0.3]
 * Small fixes
 

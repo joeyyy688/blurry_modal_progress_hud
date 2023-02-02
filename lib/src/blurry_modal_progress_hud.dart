@@ -58,9 +58,9 @@ class BlurryModalProgressHUD extends StatelessWidget {
         layOutProgressIndicator = Center(child: progressIndicator);
       } else {
         layOutProgressIndicator = Positioned(
-          child: progressIndicator,
           left: offset!.dx,
           top: offset!.dy,
+          child: progressIndicator,
         );
       }
       final modal = [
@@ -68,8 +68,8 @@ class BlurryModalProgressHUD extends StatelessWidget {
           filter: ImageFilter.blur(
               sigmaX: blurEffectIntensity, sigmaY: blurEffectIntensity),
           child: Opacity(
-            child: ModalBarrier(dismissible: dismissible, color: color),
             opacity: opacity,
+            child: ModalBarrier(dismissible: dismissible, color: color),
           ),
         ),
         layOutProgressIndicator,

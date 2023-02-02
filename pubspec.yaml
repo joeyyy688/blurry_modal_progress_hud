@@ -1,10 +1,10 @@
 name: blurry_modal_progress_hud
 description: Just like modal_progress_hud this is a simple widget wrapper to enable modal progress hud (a modal progress indicator, hud = heads up display)
-version: 1.0.3
+version: 1.1.0
 homepage: https://github.com/joeyyy688/blurry_modal_progress_hud
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.18.6 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -14,6 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^2.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

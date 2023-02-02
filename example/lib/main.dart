@@ -119,7 +119,7 @@ class _LandingPageState extends State<LandingPage> {
                       });
                     },
                     child: Text(
-                      "Login",
+                      'Login',
                       style: TextStyle(
                         color: whiteColor,
                         fontFamily: 'LibreBaskerville',
