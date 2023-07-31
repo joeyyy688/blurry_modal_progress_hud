@@ -40,8 +40,6 @@ class CustomTextField extends StatelessWidget {
         enabled: true,
         autofocus: false,
         keyboardType: keybaordType,
-        toolbarOptions:
-            ToolbarOptions(copy: true, cut: true, paste: true, selectAll: true),
         decoration: InputDecoration(
             helperStyle: TextStyle(
                 fontSize: displayWidth(context) * 0.031,
