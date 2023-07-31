@@ -69,7 +69,10 @@ class BlurryModalProgressHUD extends StatelessWidget {
               sigmaX: blurEffectIntensity, sigmaY: blurEffectIntensity),
           child: Opacity(
             opacity: opacity,
-            child: ModalBarrier(dismissible: dismissible, color: color),
+            child: ModalBarrier(
+              dismissible: dismissible,
+              color: color,
+            ),
           ),
         ),
         layOutProgressIndicator,
@@ -77,8 +80,8 @@ class BlurryModalProgressHUD extends StatelessWidget {
       widgetList += modal;
     }
     return Stack(
-      alignment: Alignment
-          .bottomCenter, //causing slight problems **can restore anytime
+      //causing slight problems **can restore anytime
+      alignment: Alignment.bottomCenter,
       children: widgetList,
     );
   }
