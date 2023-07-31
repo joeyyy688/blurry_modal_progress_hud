@@ -1,3 +1,9 @@
+## [1.1.1]
+* Updated few dependencies to support Dart 3
+* Updated environment sdk
+* Updated flutter version
+* Wrote some tests 
+
 ## [1.1.0]
 * Updated some dependencies to support Dart 3
 * Updated flutter version
