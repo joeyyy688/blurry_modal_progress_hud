@@ -12,7 +12,7 @@ Just like [modal_progress_hud](https://pub.dev/packages/modal_progress_hud) this
 ![Image2](https://github.com/joeyyy688/blurry_modal_progress_hud/blob/master/blurry_modal_progress_hud_image2.gif)
 
 
-*See [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/exmaple) for details*
+*See [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/example) for details*
 
 
 ## Installation
@@ -86,7 +86,7 @@ Most of the parameters can be customized via the constructor
 
 ## Example
 
-*See the [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/exmaple) for a complete sample app using the blurry_modal_progress_hud*
+*See the [example](https://github.com/joeyyy688/blurry_modal_progress_hud/tree/master/example) for a complete sample app using the blurry_modal_progress_hud*
 
 ### Contact
 Contact me via email <a href="mailto:edinjoey@gmail.com" target="_blank">edinjoey@gmail.com</a>
